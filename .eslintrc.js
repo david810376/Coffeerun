@@ -9,7 +9,7 @@ module.exports = {
   ],
   "linebreak-style":[
   "error",
-  "unix"
+  "window"
   ],
   "quotes":[
   "error",
